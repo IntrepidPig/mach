@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mach/",
+    "mach_server/",
+    "mach_desktop/",
+]
